@@ -1,0 +1,7 @@
+#Wed Jan 24 09:38:07 CST 2018
+base.0=D\:\\Activity\\WenZiYuYin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_60623618cf5b28efad09b7edc18b9c4ad86d8ccc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Activity\\WenZiYuYin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4803ef4eb198ff375af96ce5cabfd0be77643c12\\classes.dex
+base.1=D\:\\Activity\\WenZiYuYin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4803ef4eb198ff375af96ce5cabfd0be77643c12
+file.0=D\:\\Activity\\WenZiYuYin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_60623618cf5b28efad09b7edc18b9c4ad86d8ccc\\classes.dex
