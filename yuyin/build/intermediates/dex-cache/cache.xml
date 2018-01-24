@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Activity\yuyin\app\libs\bdasr_V3_20171108_9800a2a.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2a7d95c8f13c69122223190a8b8558454c8ac24">
+        <dex dex="D:\Activity\yuyin\app\build\intermediates\transforms\dex\debug\folders\1000\2\bdasr_V3_20171108_9800a2a_15e02bdaa47bf76f99d58499ac2d0b90b715cc73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Activity\yuyin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e67055d402de8f815f961f870ddadd7cbfaf33fb">
+        <dex dex="D:\Activity\yuyin\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e640e01d6f3a36219c8ffd01ca6ba8d5d3338d2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Activity\yuyin\app\libs\bdasr_V3_20171108_9800a2a.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2a7d95c8f13c69122223190a8b8558454c8ac24">
+        <dex dex="D:\Activity\yuyin\app\build\intermediates\transforms\dex\debug\folders\1000\2\bdasr_V3_20171108_9800a2a_15e02bdaa47bf76f99d58499ac2d0b90b715cc73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Activity\yuyin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7bd0c4160f294226073994dfbc127e327f750f91">
+        <dex dex="D:\Activity\yuyin\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e640e01d6f3a36219c8ffd01ca6ba8d5d3338d2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Activity\yuyin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Activity\yuyin\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_66a40c3c8471abfc56fbf3bd028f3b2f838c467e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Activity\yuyin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Activity\yuyin\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_66a40c3c8471abfc56fbf3bd028f3b2f838c467e\classes.dex" />
+    </item>
+
+</items>
