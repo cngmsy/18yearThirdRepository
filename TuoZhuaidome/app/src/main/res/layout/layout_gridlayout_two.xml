@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/toutoutou"
+    android:alpha="0.95"
+    >
+    <View
+        android:background="#72a3de"
+        android:layout_width="match_parent"
+        android:layout_height="40px"/>
+<LinearLayout
+    android:id="@+id/bantoumingde"
+    android:background="#72a3de"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <View
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="1dp"/>
+        <ImageView
+            android:id="@+id/guanbi"
+            android:src="@mipmap/icon_close"
+            android:layout_margin="10dp"
+            android:layout_width="20dp"
+            android:layout_height="20dp" />
+    </LinearLayout>
+    <!-- 上面可拖拽的GridLayout -->
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:text="切换栏目"
+            android:textColor="#FFF"
+            android:textSize="14sp" />
+        <View
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="1dp"/>
+    </LinearLayout>
+    <com.example.lenovo.tuozhuaidome.MyGridLayout
+        android:id="@+id/gridlayout_drageable"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </com.example.lenovo.tuozhuaidome.MyGridLayout>
+    <!-- 点击添加更多栏目 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#72a3de"
+        android:orientation="vertical" >
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#DCDBDE" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:text="点击添加更多栏目"
+            android:textColor="#FFF"
+            android:textSize="14sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#DCDBDE" />
+    </LinearLayout>
+    <!-- 最下面的Gridlayout -->
+    <com.example.lenovo.tuozhuaidome.MyGridLayout
+        android:id="@+id/gridlayout_undrageable"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </com.example.lenovo.tuozhuaidome.MyGridLayout>
+</LinearLayout>
+</LinearLayout>

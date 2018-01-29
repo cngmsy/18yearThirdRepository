@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+ 
+     
+    <!-- 激活状态(能点击长按(默认情况下))  实线-->
+    <item android:state_enabled="true">
+         
+        <shape 
+            android:shape="rectangle"
+            >
+       <stroke android:width="1dp"
+           android:color="#000"
+           />       
+        </shape>
+    </item>
+    
+    
+    <!-- 未激活状态  虚线 -->
+    <item android:state_enabled="false">
+         
+        <shape 
+            android:shape="rectangle"
+            >
+       <stroke android:width="1dp"
+           android:dashGap="3dp"
+           android:color="#00F"
+           android:dashWidth="5dp"
+           />       
+        </shape>
+        
+        
+    </item>
+
+    
+   
+
+
+</selector>
