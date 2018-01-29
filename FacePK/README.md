@@ -23,7 +23,7 @@
 
 ```
 /**
- *图片保存
+ *图片保存(注册新用户)
  */
 
  Camera.PictureCallback jpeg = new Camera.PictureCallback() {
@@ -92,7 +92,7 @@
 
 ```
 /**
- *人脸对比
+ *人脸对比(签到打卡)
  */
 
  	AlertDialog.Builder builder = new AlertDialog.Builder(SignInActivity.this);
@@ -159,7 +159,7 @@
 
 ```
 /**
- *人脸分析
+ *人脸分析(管理已注册用户)
  */
 
  // 获取每个人脸的结果
