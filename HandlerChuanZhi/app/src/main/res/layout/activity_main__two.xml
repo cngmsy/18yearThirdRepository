@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main__two"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="zhangaodong.jiyun.dell.handler_byvalue.MainActivity_Two">
+<TextView
+    android:id="@+id/textview"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="TextView"/>
+</LinearLayout>
