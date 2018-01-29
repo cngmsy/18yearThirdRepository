@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:1:1-43:12
+	package
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:2:5-35
+		INJECTED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\7aee43db118fc6b1c7bcaed8c439823c872efe91\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\0a45c5ea80b47b6ff22bb0c0a6a05fb658c5eeb9\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\af130b846f69c0107d31e16c1e89b9f2cd1c6987\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\d0a8763be7b5d59e7474d84e1dc5f54648c6e3dd\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\d587f32b710b370f5427ad3e6fbae1e70f50ed47\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\69b422079b744a368e7b8ac45ba6cba1dc77af0a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\6bd6d91ba2fa37ac1f518456bce4a53400abc5b9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\90c1be83f8eead9a1e10c21a02e7d71bfcf64f63\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\9c920d559935ec0a75b3a1dfcf9be9887af9e85f\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\7aee43db118fc6b1c7bcaed8c439823c872efe91\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:7:9-34
+		INJECTED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:15:5-73
+	android:name
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:15:22-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:18:22-73
+application
+ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:20:5-41:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\7aee43db118fc6b1c7bcaed8c439823c872efe91\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\0a45c5ea80b47b6ff22bb0c0a6a05fb658c5eeb9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\af130b846f69c0107d31e16c1e89b9f2cd1c6987\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\d0a8763be7b5d59e7474d84e1dc5f54648c6e3dd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\d587f32b710b370f5427ad3e6fbae1e70f50ed47\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\69b422079b744a368e7b8ac45ba6cba1dc77af0a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\6bd6d91ba2fa37ac1f518456bce4a53400abc5b9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\90c1be83f8eead9a1e10c21a02e7d71bfcf64f63\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\9c920d559935ec0a75b3a1dfcf9be9887af9e85f\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:23:9-30
+	android:allowBackup
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:22:9-45
+	android:theme
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.baidu.tts.sample.MainActivity
+ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:25:19-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.baidu.tts.sample.SynthActivity
+ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:32:9-34:39
+	android:label
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from D:\Activity\WenZiYuYin\app\src\main\AndroidManifest.xml:33:13-62
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\7aee43db118fc6b1c7bcaed8c439823c872efe91\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\0a45c5ea80b47b6ff22bb0c0a6a05fb658c5eeb9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\af130b846f69c0107d31e16c1e89b9f2cd1c6987\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\d0a8763be7b5d59e7474d84e1dc5f54648c6e3dd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\d587f32b710b370f5427ad3e6fbae1e70f50ed47\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\69b422079b744a368e7b8ac45ba6cba1dc77af0a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\6bd6d91ba2fa37ac1f518456bce4a53400abc5b9\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\90c1be83f8eead9a1e10c21a02e7d71bfcf64f63\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\9c920d559935ec0a75b3a1dfcf9be9887af9e85f\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\7aee43db118fc6b1c7bcaed8c439823c872efe91\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator.WIN-98P19CS68PE\.android\build-cache\7aee43db118fc6b1c7bcaed8c439823c872efe91\output\AndroidManifest.xml:26:9-47

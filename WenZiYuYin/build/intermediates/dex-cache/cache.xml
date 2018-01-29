@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Activity\WenZiYuYin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Activity\WenZiYuYin\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4803ef4eb198ff375af96ce5cabfd0be77643c12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Activity\WenZiYuYin\app\libs\com.baidu.tts_2.3.1.20170808_e39ea89.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="99489d834dfda6c1090abc3ab8870093999b8d79">
+        <dex dex="D:\Activity\WenZiYuYin\app\build\intermediates\transforms\dex\debug\folders\1000\2\com.baidu.tts_2.3.1.20170808_e39ea89_ad15d65a2fd5f5f42cfbce7dce1654de57ad962b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Activity\WenZiYuYin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ea7a4e75a4cf1487890f61a632c469499a1e93a">
+        <dex dex="D:\Activity\WenZiYuYin\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_60623618cf5b28efad09b7edc18b9c4ad86d8ccc\classes.dex" />
+    </item>
+
+</items>

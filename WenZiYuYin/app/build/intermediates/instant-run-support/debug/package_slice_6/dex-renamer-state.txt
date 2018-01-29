@@ -1,0 +1,4 @@
+#Wed Jan 24 09:29:43 CST 2018
+base.0=D\:\\Activity\\WenZiYuYin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
+renamed.0=classes.dex
+file.0=D\:\\Activity\\WenZiYuYin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex
