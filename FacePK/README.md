@@ -5,8 +5,7 @@
 
 ##步骤一:
 
-、、、
-
+```
 /**
   *初始化
   */
@@ -18,11 +17,11 @@
   		Bmob.initialize(this, "6e64317b6509bb503f7d9ab8404bf54c");
   		Log.i("onCreate: ","bmob!!!!");
   	}
-、、、
+```
 
 ##步骤二:
 
-、、、
+```
 /**
  *图片保存
  */
@@ -87,11 +86,11 @@
  				System.out.println("图片保存异常" + e.getMessage());
  				e.printStackTrace();
  			}
-、、、
+```
 
 ##步骤三:
 
-、、、
+```
 /**
  *人脸对比
  */
@@ -154,11 +153,11 @@
     							fos.flush();
     							fos.close();
     							searchByOuterId(imageFile);
-、、、
+```
 
 ##步骤四:
 
-、、、
+```
 /**
  *人脸分析
  */
@@ -197,4 +196,4 @@
  		}
  		return rect;
  	}
-、、、
+```
