@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/rl_live_cruises"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="-300dp"
+        android:layout_marginTop="50dp">
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/yacht_hull" />
+    </RelativeLayout>
+    <ImageView
+        android:id="@+id/iv_live_water_one"
+        style="@style/live_show_seawater"
+        android:layout_marginRight="10dp" />
+    <ImageView
+        android:id="@+id/iv_live_water_one2"
+        style="@style/live_show_seawater"
+        android:layout_marginRight="10dp" />
+</RelativeLayout>
