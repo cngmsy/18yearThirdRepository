@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="370dp"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+        android:text="邮箱注册需要激活后才能登录"
+        android:textColor="@color/colorPrimary" />
+    <EditText
+        android:id="@+id/et_email"
+        android:layout_width="370dp"
+        android:layout_height="45dp"
+        android:layout_gravity="center"
+        android:textSize="15dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="5dp"
+        android:text="923622583@qq.com"
+        android:background="#fff"/>
+
+    <TextView
+        android:id="@+id/hint_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ff0000"
+        android:layout_marginLeft="20dp"
+        android:visibility="gone"/>
+
+    <EditText
+        android:id="@+id/et_emailpsw"
+        android:layout_width="370dp"
+        android:layout_height="45dp"
+        android:layout_gravity="center"
+        android:textSize="15dp"
+        android:layout_marginTop="25dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="5dp"
+        android:text="12345678"
+        android:background="#fff"
+        android:password="true"/>
+
+    <EditText
+        android:id="@+id/et_emailquerenpsw"
+        android:layout_width="370dp"
+        android:layout_height="45dp"
+        android:layout_gravity="center"
+        android:textSize="15dp"
+        android:layout_marginTop="25dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="5dp"
+        android:background="#fff"
+        android:text="12345678"
+        android:password="true"/>
+
+    <LinearLayout
+        android:layout_width="370dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="10dp">
+
+        <EditText
+            android:id="@+id/et_emailpictureyanzheng"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="45dp"
+            android:textSize="15dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:layout_gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:hint="请输入图片验证码"
+            android:background="#fff"/>
+
+        <ImageView
+            android:id="@+id/email_image"
+            android:layout_width="90dp"
+            android:layout_height="45dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="15dp"
+            android:scaleType="fitXY"/>
+    </LinearLayout>
+    <RadioButton
+        android:layout_width="370dp"
+        android:layout_height="wrap_content"
+        android:button="@null"
+        android:layout_marginTop="40dp"
+        android:textSize="15dp"
+        android:checked="true"
+        android:drawablePadding="5dp"
+        android:layout_gravity="center"
+        android:drawableLeft="@drawable/personal_check_img"
+        android:text="我已阅读并同意《央视网网络服务使用协议》"
+        android:textColor="@color/colorPrimary"/>
+
+    <Button
+        android:id="@+id/bt_emailregister"
+        android:layout_width="370dp"
+        android:layout_height="wrap_content"
+        android:text="注册"
+        android:textSize="16dp"
+        android:textColor="#fff"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorPrimary"/>
+
+</LinearLayout>
