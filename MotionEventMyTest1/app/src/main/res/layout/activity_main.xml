@@ -1,0 +1,27 @@
+<com.huxq.motioneventmytest.OutLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+   <!--  <com.huxq.motioneventmytest.InnerLinearLayout
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@android:color/holo_orange_light" > -->
+
+        <com.huxq.motioneventmytest.MyImageView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:background="@android:color/holo_orange_light"
+            android:src="@drawable/ic_launcher" />
+   <!--   </com.huxq.motioneventmytest.InnerLinearLayout>-->
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#000"
+        android:id="@+id/btn"/>
+
+</com.huxq.motioneventmytest.OutLinearLayout>
