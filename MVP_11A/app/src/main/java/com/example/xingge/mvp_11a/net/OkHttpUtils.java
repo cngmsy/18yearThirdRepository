@@ -298,6 +298,7 @@ public class OkHttpUtils implements IHttp {
                 byte[] bytes = response.body().bytes();
                 Headers headers = response.headers();
                 String jsessionId =  headers.get("Set-Cookie");
+
 //                for (int i = 0; i < headers.size(); i++){
 //                    String name = headers.name(i);
 //                    headers.get("Set-Cookie")
